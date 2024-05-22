@@ -27,8 +27,6 @@ public class Students {
 
         students.remove("Ilya");
         System.out.println(students);
-
-
     }
     }
 
