@@ -1,4 +1,6 @@
-package Hw_TreeSet;
+package Hw_TreeSet.Task1;
+
+import Hw_TreeSet.Task1.Person;
 
 import java.util.Set;
 import java.util.TreeSet;

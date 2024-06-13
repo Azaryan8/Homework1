@@ -1,4 +1,4 @@
-package Hw_TreeSet;
+package Hw_TreeSet.Task1;
 
 import java.util.Comparator;
 import java.util.Objects;
